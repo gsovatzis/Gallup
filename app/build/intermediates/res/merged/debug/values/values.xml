@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gallup</string>
+    <string name="cannot_save">Δεν μπορώ να αποθηκεύσω στην εσωτερική μνήμη!</string>
+    <string name="mysavedate">Ημερομηνία αποθήκευσης</string>
+    <string name="rec_saved">Η εγγραφή αποθηκεύτηκε!</string>
+    <string name="save">Αποθήκευση</string>
+</resources>

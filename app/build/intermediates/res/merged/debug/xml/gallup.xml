@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallup>
+	<gallup_category name="ΦΥΛΛΟ">
+		<gallup_option>Γυναίκα</gallup_option>
+		<gallup_option>Άνδρας</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΗΛΙΚΙΑ">
+		<gallup_option>Παιδί-15</gallup_option>
+		<gallup_option>Νεαρός-25</gallup_option>
+		<gallup_option>Νέος-35</gallup_option>
+		<gallup_option>Ενηλικας-45</gallup_option>
+		<gallup_option>Μεσήλικας-55</gallup_option>
+		<gallup_option>Ηλικιωμένος-55+</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΠΟΣΟ">
+		<gallup_option>0-5</gallup_option>
+		<gallup_option>5-10</gallup_option>
+		<gallup_option>10-15</gallup_option>
+		<gallup_option>15-20</gallup_option>
+		<gallup_option>20-30</gallup_option>
+		<gallup_option>30+</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΤΕΜΑΧΙΑ">
+		<gallup_option>1</gallup_option>
+		<gallup_option>2</gallup_option>
+		<gallup_option>3</gallup_option>
+		<gallup_option>4</gallup_option>
+		<gallup_option>5</gallup_option>
+		<gallup_option>6+</gallup_option>
+	</gallup_category>
+		<gallup_category name="ΤΣΙΓΑΡΑ">
+		<gallup_option>ΟΧΙ</gallup_option>
+		<gallup_option>ΜΕ ΑΛΛΑ</gallup_option>
+		<gallup_option>ΜΟΝΟ</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΤΥΠΟΣ">
+		<gallup_option>ΟΧΙ</gallup_option>
+		<gallup_option>ΜΟΝΟ ΤΥΠΟΣ</gallup_option>
+		<gallup_option>ΜΕ ΤΣΙΓΑΡΑ ΜΟΝΟ</gallup_option>
+		<gallup_option>ΜΕ ΑΛΛΟ ΠΡΟΙΟΝ</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΠΕΖΟΣ">
+		<gallup_option>ΠΕΖΟΣ</gallup_option>
+		<gallup_option>ΜΗΧΑΝΗ</gallup_option>
+		<gallup_option>ΑΥΤΟΚΙΝΗΤΟ</gallup_option>
+		<gallup_option>ΠΟΔΗΛΑΤΟ</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΜΟΝΟΣ">
+		<gallup_option>ΝΑΙ</gallup_option>
+		<gallup_option>ΜΕ ΠΑΙΔΙΑ</gallup_option>
+		<gallup_option>ΜΕ ΑΛΛΟΥΣ</gallup_option>
+	</gallup_category>
+	<gallup_category name="ΓΝΩΣΤΟΣ">
+		<gallup_option>ΚΑΤΟΙΚΟΣ</gallup_option>
+		<gallup_option>ΜΑΓΑΖΙ-ΔΟΥΛΕΙΑ</gallup_option>
+		<gallup_option>ΓΝΩΣΤΟΣ</gallup_option>
+		<gallup_option>ΟΧΙ</gallup_option>
+	</gallup_category>
+
+</gallup>

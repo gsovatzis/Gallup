@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Mon Nov 14 21:06:11 EET 2016
+2.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\gallup.xml
+5.set=ANDROID_RESOURCE
+3.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\gallup.png
+2.set=ANDROID_RESOURCE
+4.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\gallupold.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.set=DEX
+7.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+3.set=ANDROID_RESOURCE
+1.base=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+4.file=D\:\\Users\\gsova\\StudioProjects\\Gallup\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.set=ANDROID_RESOURCE

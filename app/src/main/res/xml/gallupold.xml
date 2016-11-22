@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gallup>
+	<gallup_category name="Φύλλο">
+		<gallup_option>Γυναίκα</gallup_option>
+		<gallup_option>Άνδρας</gallup_option>
+	</gallup_category>
+	<gallup_category name="Ηλικία">
+		<gallup_option>61-90</gallup_option>
+		<gallup_option>46-60</gallup_option>
+		<gallup_option>36-45</gallup_option>
+		<gallup_option>18-35</gallup_option>
+	</gallup_category>
+	<gallup_category name="Γραβάτα">
+		<gallup_option>Κόκκινη</gallup_option>
+		<gallup_option>Κίτρινη</gallup_option>
+		<gallup_option>Μπλέ</gallup_option>
+		<gallup_option>Δεν φοράει</gallup_option>
+	</gallup_category>
+	<gallup_category name="Αναψυκτικό">
+		<gallup_option>Coca cola</gallup_option>
+		<gallup_option>Fanta</gallup_option>
+		<gallup_option>Sprite</gallup_option>
+		<gallup_option>ΕΨΑ</gallup_option>
+		<gallup_option>Σόδα</gallup_option>
+		<gallup_option>Άλλο</gallup_option>
+	</gallup_category>
+</gallup>
